@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hello, I'm Samarpit, A Data Analyst</h1>
+<h1 align="center">👋 Hello, I'm Samarpit, t</h1>
 
 🎯 **Data Analyst | Excel | SQL | Python | Power BI | Tableau | Business Analytics Enthusiast**
 
