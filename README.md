@@ -1,4 +1,4 @@
-<!-- Banner or GIF -->
+
 <p align="center">
   <img src="https://your-image-url.com/banner.png" alt="MasterHead"/>
 </p>
