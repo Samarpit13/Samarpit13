@@ -35,12 +35,6 @@ I'm a passionate **Data Analyst** with a background in Business Analytics, Finan
 
 ---
 
-## 📈 GitHub Stats
-
-![Samarpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_title=true)
-
----
-
 ## 📫 Let's Connect
 
 - 🌐I regularly write articles on [LinkedIn](https://www.linkedin.com/in/samarpit25)
