@@ -1,6 +1,5 @@
 
 <p align="center">
-  <img src="https://your-image-url.com/banner.png" alt="MasterHead"/>
 </p>
 
 # 👋 Hi there, I'm Samarpit!
