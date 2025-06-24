@@ -61,9 +61,4 @@ I'm a passionate **Data Analyst** with a background in Business Analytics, Finan
 <p align="left">
 <a href="https://twitter.com/yourhandle"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 <a href="https://www.linkedin.com/in/samarpit25"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href="https://stackoverflow.com/users/yourid"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
-<a href="https://medium.com/@yourhandle"><img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png"/></a>
-<a href="https://www.youtube.com/c/yourchannel"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href="https://hashnode.com/@yourhandle"><img src="https://img.icons8.com/ios-filled/50/000000/hashnode.png"/></a>
-<a href="https://auth.geeksforgeeks.org/user/yourhandle"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png"/></a>
 </p>
