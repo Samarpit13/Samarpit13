@@ -1,9 +1,5 @@
+# 👋 Hello, I'm Samarpit!
 
-<p align="center">
-
-
-# 👋 Hi there, I'm Samarpit!
-</p>
 🎯 **Data Analyst | Excel | SQL | Python | Power BI | Tableau | Business Analytics Enthusiast**
 
 ---
