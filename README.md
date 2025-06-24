@@ -1,9 +1,9 @@
 
 <p align="center">
-</p>
+
 
 # 👋 Hi there, I'm Samarpit!
-
+</p>
 🎯 **Data Analyst | Excel | SQL | Python | Power BI | Tableau | Business Analytics Enthusiast**
 
 ---
